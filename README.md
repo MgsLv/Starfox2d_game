@@ -1,15 +1,26 @@
 # Starfox2d_game
 
-Jogo 2D inspirado em Star Fox, desenvolvido como projeto de estudo.
+Jogo 2D inspirado em Star Fox, desenvolvido como projeto de estudo com React.
 
 ## Tecnologias utilizadas
+- React
 - JavaScript
 - HTML
 - CSS
-- Canvas API
+- npm
 
 ## Como rodar o projeto
-1. Abra o projeto em uma IDE ou editor de código.
-2. Inicie um servidor local, se necessário.
-3. Abra o arquivo principal no navegador, normalmente `index.html`.
-4. Caso use Live Server, basta executar a extensão e abrir a aplicação.
+1. Instale as dependências:
+   ```bash
+   npm install
+
+2. Inicie o projeto:
+   ```bash
+   npm start
+   ```
+ou
+  ```bash
+  npm run dev
+  ```
+
+3. Abra o endereço exibido no terminal no navegador (localhost:3000).
