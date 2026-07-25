@@ -18,9 +18,9 @@ Jogo 2D inspirado em Star Fox, desenvolvido como projeto de estudo com React.
    ```bash
    npm start
    ```
-ou
-  ```bash
-  npm run dev
-  ```
+   ou
+     ```bash
+     npm run dev
+     ```
 
 3. Abra o endereço exibido no terminal no navegador (localhost:3000).
